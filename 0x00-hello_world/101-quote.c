@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A C program that prints a line to the standard error
+ * main - using fput to  print a line to the standard error
  *
  * Return: 1 (Success)
  */
